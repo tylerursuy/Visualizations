@@ -1,0 +1,37 @@
+Team,Location,First Half Goals,Second Half Goals,Year Count,Titles,Points,Location Count,Rival,Rival Town
+Arsenal,London,313,411,10,13,715.0,7,Chelsea,London
+Aston Villa,Birmingham,141,140,7,7,284.0,2,Birmingham,Birmingham
+Birmingham,Birmingham,32,43,2,0,89.0,2,Aston Villa,Birmingham
+Blackburn,Lancashire,63,72,3,3,124.0,3,Burnley,Lancashire
+Blackpool,Lancashire,28,27,1,0,39.0,3,Preston North End,Lancashire
+Bolton,Greater Manchester,61,79,3,0,121.0,4,Wigan,Greater Manchester
+Bournemouth,Dorset,90,104,4,0,173.0,1,Southampton,Isle of Wight
+Brighton,East Sussex,32,34,2,0,74.0,1,Crystal Palace,London
+Burnley,Lancashire,87,102,5,2,197.0,3,Blackburn,Lancashire
+Cardiff,East Wales,19,43,2,0,61.0,1,Swansea,Swansea
+Chelsea,London,331,390,10,6,745.0,7,Arsenal,London
+Crystal Palace,London,93,164,6,0,262.0,7,Brighton,East Sussex
+Everton,Merseyside,232,308,10,0,559.0,2,Liverpool,Merseyside
+Fulham,London,102,157,6,0,245.0,7,Chelsea,London
+Huddersfield,West Yorkshire,26,22,2,3,51.0,1,Leeds United,West Yorkshire
+Hull,Lincolnshire,66,76,4,0,136.0,1,Leeds United,West Yorkshire
+Leicester,Leicester,113,153,5,1,261.0,1,Derby,Derbyshire
+Liverpool,Merseyside,318,377,10,18,679.0,2,Man United,Greater Manchester
+Man City,Greater Manchester,369,452,10,5,800.0,4,Man United,Greater Manchester
+Man United,Greater Manchester,318,381,10,20,757.0,4,Liverpool,Merseyside
+Middlesbrough,North Yorkshire,15,12,1,0,28.0,1,Sunderland,Northumberland
+Newcastle,Northumberland,162,196,8,4,362.0,2,Sunderland,Northumberland
+Norwich,East Angalia,68,92,4,0,158.0,1,Ipswich Town,Suffolk
+Portsmouth,Isle of Wight,14,20,1,2,28.0,2,Southampton,Isle of Wight
+QPR,London,48,67,3,0,92.0,7,Chelsea,London
+Reading,Berkshire,15,28,1,0,28.0,1,Aldershot Town,Hampshire
+Southampton,Isle of Wight,155,179,7,0,338.0,2,Portsmouth,Isle of Wight
+Stoke,Shropshire,173,187,9,0,412.0,1,West Brom,West Midlands
+Sunderland,Northumberland,154,174,8,6,314.0,2,Newcastle,Northumberland
+Swansea,Swansea,124,182,7,0,312.0,1,Cardiff,East Wales
+Tottenham,London,277,383,10,2,706.0,7,Arsenal,London
+Watford,Hertfordshire,70,103,4,0,175.0,1,Luton Town,Bedfordshire
+West Brom,West Midlands,143,200,8,1,342.0,2,Aston Villa,Birmingham
+West Ham,London,189,234,9,0,393.0,7,Millwall,London
+Wigan,Greater Manchester,67,99,4,0,157.0,4,Bolton,Greater Manchester
+Wolves,West Midlands,65,94,4,3,151.0,2,West Brom,West Midlands

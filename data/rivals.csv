@@ -1,0 +1,73 @@
+Team-Rival,Name,Location,Path
+Team,Arsenal,London,London_London
+Rival,Chelsea,London,London_London
+Team,Aston Villa,Birmingham,Birmingham_Birmingham
+Rival,Birmingham,Birmingham,Birmingham_Birmingham
+Team,Birmingham,Birmingham,Birmingham_Birmingham
+Rival,Aston Villa,Birmingham,Birmingham_Birmingham
+Team,Blackburn,Lancashire,Lancashire_Lancashire
+Rival,Burnley,Lancashire,Lancashire_Lancashire
+Team,Blackpool,Lancashire,Lancashire_Lancashire
+Rival,Preston North End,Lancashire,Lancashire_Lancashire
+Team,Bolton,Greater Manchester,Greater Manchester_Greater Manchester
+Rival,Wigan,Greater Manchester,Greater Manchester_Greater Manchester
+Team,Bournemouth,Dorset,Dorset_Isle of Wight
+Rival,Southampton,Isle of Wight,Dorset_Isle of Wight
+Team,Brighton,East Sussex,East Sussex_London
+Rival,Crystal Palace,London,East Sussex_London
+Team,Burnley,Lancashire,Lancashire_Lancashire
+Rival,Blackburn,Lancashire,Lancashire_Lancashire
+Team,Cardiff,East Wales,East Wales_Swansea
+Rival,Swansea,Swansea,East Wales_Swansea
+Team,Chelsea,London,London_London
+Rival,Arsenal,London,London_London
+Team,Crystal Palace,London,London_East Sussex
+Rival,Brighton,East Sussex,London_East Sussex
+Team,Everton,Merseyside,Merseyside_Merseyside
+Rival,Liverpool,Merseyside,Merseyside_Merseyside
+Team,Fulham,London,London_London
+Rival,Chelsea,London,London_London
+Team,Huddersfield,West Yorkshire,West Yorkshire_West Yorkshire
+Rival,Leeds United,West Yorkshire,West Yorkshire_West Yorkshire
+Team,Hull,Lincolnshire,Lincolnshire_West Yorkshire
+Rival,Leeds United,West Yorkshire,Lincolnshire_West Yorkshire
+Team,Leicester,Leicester,Leicester_Derbyshire
+Rival,Derby,Derbyshire,Leicester_Derbyshire
+Team,Liverpool,Merseyside,Merseyside_Greater Manchester
+Rival,Man United,Greater Manchester,Merseyside_Greater Manchester
+Team,Man City,Greater Manchester,Greater Manchester_Greater Manchester
+Rival,Man United,Greater Manchester,Greater Manchester_Greater Manchester
+Team,Man United,Greater Manchester,Greater Manchester_Merseyside
+Rival,Liverpool,Merseyside,Greater Manchester_Merseyside
+Team,Middlesbrough,North Yorkshire,North Yorkshire_Northumberland
+Rival,Sunderland,Northumberland,North Yorkshire_Northumberland
+Team,Newcastle,Northumberland,Northumberland_Northumberland
+Rival,Sunderland,Northumberland,Northumberland_Northumberland
+Team,Norwich,East Angalia,East Angalia_Suffolk
+Rival,Ipswich Town,Suffolk,East Angalia_Suffolk
+Team,Portsmouth,Isle of Wight,Isle of Wight_Isle of Wight
+Rival,Southampton,Isle of Wight,Isle of Wight_Isle of Wight
+Team,QPR,London,London_London
+Rival,Chelsea,London,London_London
+Team,Reading,Berkshire,Berkshire_Hampshire
+Rival,Aldershot Town,Hampshire,Berkshire_Hampshire
+Team,Southampton,Isle of Wight,Isle of Wight_Isle of Wight
+Rival,Portsmouth,Isle of Wight,Isle of Wight_Isle of Wight
+Team,Stoke,Shropshire,Shropshire_West Midlands
+Rival,West Brom,West Midlands,Shropshire_West Midlands
+Team,Sunderland,Northumberland,Northumberland_Northumberland
+Rival,Newcastle,Northumberland,Northumberland_Northumberland
+Team,Swansea,Swansea,Swansea_East Wales
+Rival,Cardiff,East Wales,Swansea_East Wales
+Team,Tottenham,London,London_London
+Rival,Arsenal,London,London_London
+Team,Watford,Hertfordshire,Hertfordshire_Bedfordshire
+Rival,Luton Town,Bedfordshire,Hertfordshire_Bedfordshire
+Team,West Brom,West Midlands,West Midlands_Birmingham
+Rival,Aston Villa,Birmingham,West Midlands_Birmingham
+Team,West Ham,London,London_London
+Rival,Millwall,London,London_London
+Team,Wigan,Greater Manchester,Greater Manchester_Greater Manchester
+Rival,Bolton,Greater Manchester,Greater Manchester_Greater Manchester
+Team,Wolves,West Midlands,West Midlands_West Midlands
+Rival,West Brom,West Midlands,West Midlands_West Midlands
