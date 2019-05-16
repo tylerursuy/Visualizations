@@ -11,7 +11,7 @@
   questions since I have some level domain expertise. The PL also happens to be the home of my favorite team, Manchester 
   United, and the opportunity to be a data driven fan was hard to pass up on.
   
-	The dataset provided a great foundation to start but was lacking in some areas. Firstly, the locations of each team were 
+  The dataset provided a great foundation to start but was lacking in some areas. Firstly, the locations of each team were 
   not listed; however, I was able to manually add this by matching each to team to its corresponding subnational territory 
   listed in the Nomenclature of Territorial Units for Statistics, commonly referred to as NUTS Europe. For the purposes of 
   one particular visualization below, I gathered the coordinates of London team stadiums. Next, as I will expand on later, 
@@ -19,7 +19,7 @@
   of each team. Each of these was done by internet searches and manually recorded. Any additional information used other 
   than the ones just listed was done by feature engineering using the data available.
   
-	While beginning the project, I had a few initial questions that I wanted answers for, but my curiosity grew with each 
+  While beginning the project, I had a few initial questions that I wanted answers for, but my curiosity grew with each 
   type of visualization. One of my first questions aimed to find out what teams would be leading if I treated all ten years
   as one season, that is, keeping track of a cumulative point count for ten years rather than resetting each year. I then 
   wanted to investigate the impact of referees on games by observing how many yellow and red cards each referee issued. 
